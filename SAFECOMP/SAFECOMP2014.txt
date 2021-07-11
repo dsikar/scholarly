@@ -1,0 +1,48 @@
+3rd Workshop on Architecting Safety in Collaborative Mobile Systems (ASCoMS)
+Intelligent Transport Systems - The Role of a Safety Loop for Holistic Safety Management
+Safety Verification of Multiple Autonomous Systems by Formal Approach
+Checking Verification Compliance of Technical Safety Requirements on the AUTOSAR Platform Using Annotated Semi-formal Executable Models
+Evaluation of Safety Rules in a Safety Kernel-Based Architecture
+Driving with Confidence: Local Dynamic Maps That Provide LoS for the Gulliver Test-Bed
+Sensor- and Environment Dependent Performance Adaptation for Maintaining Safety Requirements
+Collaborative Development of Safety-Critical Automotive Systems: Exchange, Views and Metrics
+Towards Energy Efficient, High-Speed Communication in WSNs
+Comparing Adaptive TDMA against a Clock Synchronization Approach
+Introduction: ERCIM/EWICS/ARTEMIS Workshop on Dependable Embedded and Cyberphysical Systems and Systems-of-Systems (DECSoS’14) at SAFECOMP 2014
+True Error or False Alarm? Refining Astrée’s Abstract Interpretation Results by Embedded Tester’s Automatic Model-Based Testing
+Proving Compliance of Implementation Models to Safety Specifications
+MTBF Inconsistency Analysis on Inferred Product Breakdown Structures
+Critical Systems Verification in MetaMORP(h)OSY
+Report on the Railway Use-Case of the Crystal Project: Objectives and Progress
+Contract-Based Analysis for Verification of Communication-Based Train Control (CBTC) System
+An Interoperable Testing Environment for ERTMS/ETCS Control Systems
+Modelling Resilient Systems-of-Systems in Event-B
+Towards Assured Dynamic Configuration of Safety-Critical Embedded Systems
+Towards Trust Assurance and Certification in Cyber-Physical Systems
+Introduction to the Safecomp 2014 Workshop: DEvelopment, Verification and VAlidation of cRiTical Systems (DEVVARTS ’14)
+Verification of Fault-Tolerant System Architectures Using Model Checking
+Verification of a Real-Time Safety-Critical Protocol Using a Modelling Language with Formal Data and Behaviour Semantics
+Visualization of Model-Implemented Fault Injection Experiments
+Cost-Effective Testing for Critical Off-the-Shelf Services
+On Security Countermeasures Ranking through Threat Analysis
+Enabling Cross-Domain Reuse of Tool Qualification Certification Artefacts
+1st International Workshop on the Integration of Safety and Security Engineering (ISSE ’14)
+From Safety Models to Security Models: Preliminary Lessons Learnt
+FMVEA for Safety and Security Analysis of Intelligent and Cooperative Vehicles
+Uniform Approach of Risk Communication in Distributed IT Environments Combining Safety and Security Aspects
+Introduction to the Safecomp 2014 Workshop: Reliability and Security Aspects for Critical Infrastructure Protection (ReSA4CI 2014)
+Modeling and Evaluation of Maintenance Procedures for Gas Distribution Networks with Time-Dependent Parameters
+Quantification of the Impact of Cyber Attack in Critical Infrastructures
+Probabilistic Inference in the Physical Simulation of Interdependent Critical Infrastructure Systems
+Energy-Based Detection of Multi-layer Flooding Attacks on Wireless Sensor Network
+Towards a Non-intrusive Recognition of Anomalous System Behavior in Data Centers
+Toward Resilience Assessment in Business Process Architectures
+Introduction to SASSUR 2014
+Assuring Avionics – Updating the Approach for the 21st Century
+Rethinking of Strategy for Safety Argument Development
+Towards a Cross-Domain Software Safety Assurance Process for Embedded Systems
+A Software Safety Verification Method Based on System-Theoretic Process Analysis
+Quantifying Uncertainty in Safety Cases Using Evidential Reasoning
+Metamodel Comparison and Model Comparison for Safety Assurance
+Does Visualization Speed Up the Safety Analysis Process?
+Agile Change Impact Analysis of Safety Critical Software
